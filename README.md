@@ -1,2 +1,3 @@
 # learning-python-
-I made this learn AI Engineering
+This is my first Git hub project.
+I made this learn AI Engineering.
