@@ -1,2 +1,2 @@
 # learning-python-
-I made this to be a AI Engineer
+I made this learn AI Engineering
